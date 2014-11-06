@@ -1,0 +1,10 @@
+include_rules = [
+    "+mozilla",
+    "+platform",
+    "+public/platform",
+    "+third_party/skia",
+    "+weborigin",
+    "-bindings",
+    "-core",
+    "-modules",
+]
